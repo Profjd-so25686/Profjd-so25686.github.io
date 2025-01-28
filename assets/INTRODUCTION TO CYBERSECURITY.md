@@ -1,4 +1,4 @@
-# Module 1- Introduction to Cybersecurity
+# Module 1- Launching into Cyber Security
 
 I'm Ed Oyewo, an evolving Cybersecurity Professional. My primary focus is on Penetration Testing within the Cybersecurity field. I'm currently expanding my skills in Ethical Hacking using Kali Linux and pursuing my MSc in Cybersecurity. 
 
