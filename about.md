@@ -1,7 +1,6 @@
-# Hello, I'm Saheed (Ed) Oyewo
+# About Me
 <a href="https://www.linkedin.com/in/saheed-oyewo-b64653281/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-# About Me
 
 I'm Ed Oyewo, an evolving Cybersecurity Professional. My primary focus is on Penetration Testing within the Cybersecurity field. I'm currently expanding my skills in Ethical Hacking using Kali Linux and pursuing my MSc in Cybersecurity. 
 
